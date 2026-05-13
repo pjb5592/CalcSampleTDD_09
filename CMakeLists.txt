@@ -22,3 +22,10 @@ target_link_libraries(calc_sample_test GTest::gtest_main)
 
 include(GoogleTest)
 gtest_discover_tests(calc_sample_test)
+
+
+if(CMAKE_CXX_COMPILER_ID MATCHES "GNU|Clang")   #
+    target_compile_options(calc_sample_test PRIVATE --coverage) #
+    target_link_options(calc_sample_test PRIVATE --coverage) #
+endif() #
+

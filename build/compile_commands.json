@@ -1,7 +1,7 @@
 [
 {
   "directory": "D:/DEV/CalcSampleTDD_09/build",
-  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/calc_sample_test.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\calc_sample_test.dir\\test\\calc_sample_test.cpp.obj -c D:\\DEV\\CalcSampleTDD_09\\test\\calc_sample_test.cpp",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/calc_sample_test.dir/includes_CXX.rsp -g -std=gnu++17 --coverage -o CMakeFiles\\calc_sample_test.dir\\test\\calc_sample_test.cpp.obj -c D:\\DEV\\CalcSampleTDD_09\\test\\calc_sample_test.cpp",
   "file": "D:/DEV/CalcSampleTDD_09/test/calc_sample_test.cpp",
   "output": "CMakeFiles/calc_sample_test.dir/test/calc_sample_test.cpp.obj"
 },
