@@ -76,15 +76,15 @@ CMakeFiles/calc_sample_test.dir/test/calc_sample_test.cpp.obj: CMakeFiles/calc_s
 CMakeFiles/calc_sample_test.dir/test/calc_sample_test.cpp.obj: D:/DEV/CalcSampleTDD_09/test/calc_sample_test.cpp
 CMakeFiles/calc_sample_test.dir/test/calc_sample_test.cpp.obj: CMakeFiles/calc_sample_test.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\DEV\CalcSampleTDD_09\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/calc_sample_test.dir/test/calc_sample_test.cpp.obj"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/calc_sample_test.dir/test/calc_sample_test.cpp.obj -MF CMakeFiles\calc_sample_test.dir\test\calc_sample_test.cpp.obj.d -o CMakeFiles\calc_sample_test.dir\test\calc_sample_test.cpp.obj -c D:\DEV\CalcSampleTDD_09\test\calc_sample_test.cpp
+	d:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/calc_sample_test.dir/test/calc_sample_test.cpp.obj -MF CMakeFiles\calc_sample_test.dir\test\calc_sample_test.cpp.obj.d -o CMakeFiles\calc_sample_test.dir\test\calc_sample_test.cpp.obj -c D:\DEV\CalcSampleTDD_09\test\calc_sample_test.cpp
 
 CMakeFiles/calc_sample_test.dir/test/calc_sample_test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calc_sample_test.dir/test/calc_sample_test.cpp.i"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\DEV\CalcSampleTDD_09\test\calc_sample_test.cpp > CMakeFiles\calc_sample_test.dir\test\calc_sample_test.cpp.i
+	d:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\DEV\CalcSampleTDD_09\test\calc_sample_test.cpp > CMakeFiles\calc_sample_test.dir\test\calc_sample_test.cpp.i
 
 CMakeFiles/calc_sample_test.dir/test/calc_sample_test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calc_sample_test.dir/test/calc_sample_test.cpp.s"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\DEV\CalcSampleTDD_09\test\calc_sample_test.cpp -o CMakeFiles\calc_sample_test.dir\test\calc_sample_test.cpp.s
+	d:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\DEV\CalcSampleTDD_09\test\calc_sample_test.cpp -o CMakeFiles\calc_sample_test.dir\test\calc_sample_test.cpp.s
 
 # Object files for target calc_sample_test
 calc_sample_test_OBJECTS = \

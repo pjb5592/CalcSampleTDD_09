@@ -76,15 +76,15 @@ external/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: extern
 external/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: D:/DEV/CalcSampleTDD_09/external/googletest/googlemock/src/gmock-all.cc
 external/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: external/googletest/googlemock/CMakeFiles/gmock.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\DEV\CalcSampleTDD_09\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object external/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
-	cd /d D:\DEV\CalcSampleTDD_09\build\external\googletest\googlemock && D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT external/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj -MF CMakeFiles\gmock.dir\src\gmock-all.cc.obj.d -o CMakeFiles\gmock.dir\src\gmock-all.cc.obj -c D:\DEV\CalcSampleTDD_09\external\googletest\googlemock\src\gmock-all.cc
+	cd /d D:\DEV\CalcSampleTDD_09\build\external\googletest\googlemock && d:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT external/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj -MF CMakeFiles\gmock.dir\src\gmock-all.cc.obj.d -o CMakeFiles\gmock.dir\src\gmock-all.cc.obj -c D:\DEV\CalcSampleTDD_09\external\googletest\googlemock\src\gmock-all.cc
 
 external/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/gmock.dir/src/gmock-all.cc.i"
-	cd /d D:\DEV\CalcSampleTDD_09\build\external\googletest\googlemock && D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\DEV\CalcSampleTDD_09\external\googletest\googlemock\src\gmock-all.cc > CMakeFiles\gmock.dir\src\gmock-all.cc.i
+	cd /d D:\DEV\CalcSampleTDD_09\build\external\googletest\googlemock && d:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\DEV\CalcSampleTDD_09\external\googletest\googlemock\src\gmock-all.cc > CMakeFiles\gmock.dir\src\gmock-all.cc.i
 
 external/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/gmock.dir/src/gmock-all.cc.s"
-	cd /d D:\DEV\CalcSampleTDD_09\build\external\googletest\googlemock && D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\DEV\CalcSampleTDD_09\external\googletest\googlemock\src\gmock-all.cc -o CMakeFiles\gmock.dir\src\gmock-all.cc.s
+	cd /d D:\DEV\CalcSampleTDD_09\build\external\googletest\googlemock && d:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\DEV\CalcSampleTDD_09\external\googletest\googlemock\src\gmock-all.cc -o CMakeFiles\gmock.dir\src\gmock-all.cc.s
 
 # Object files for target gmock
 gmock_OBJECTS = \
