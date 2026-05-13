@@ -1,0 +1,5 @@
+if(EXISTS "D:/DEV/CalcSampleTDD_09/build/calc_sample_test[1]_tests.cmake")
+  include("D:/DEV/CalcSampleTDD_09/build/calc_sample_test[1]_tests.cmake")
+else()
+  add_test(calc_sample_test_NOT_BUILT calc_sample_test_NOT_BUILT)
+endif()

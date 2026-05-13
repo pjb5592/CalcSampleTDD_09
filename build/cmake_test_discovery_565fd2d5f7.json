@@ -1,0 +1,35 @@
+{
+  "tests": 3,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "CalcSampleTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "Plus_Basic",
+          "file": "D:\\DEV\\CalcSampleTDD_09\\test\\calc_sample_test.cpp",
+          "line": 5
+        }
+      ]
+    },
+    {
+      "name": "Cases\/SumTest",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "Check\/0",
+          "value_param": "(1, 2, 3)",
+          "file": "D:\\DEV\\CalcSampleTDD_09\\test\\calc_sample_test.cpp",
+          "line": 14
+        },
+        {
+          "name": "Check\/1",
+          "value_param": "(4, 1, 5)",
+          "file": "D:\\DEV\\CalcSampleTDD_09\\test\\calc_sample_test.cpp",
+          "line": 14
+        }
+      ]
+    }
+  ]
+}

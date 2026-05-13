@@ -1,0 +1,7 @@
+add_test([=[CalcSampleTest.Plus_Basic]=]  D:/DEV/CalcSampleTDD_09/build/calc_sample_test.exe [==[--gtest_filter=CalcSampleTest.Plus_Basic]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[CalcSampleTest.Plus_Basic]=]  PROPERTIES DEF_SOURCE_LINE [==[D:\DEV\CalcSampleTDD_09\test\calc_sample_test.cpp:5]==] WORKING_DIRECTORY D:/DEV/CalcSampleTDD_09/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[Cases/SumTest.Check/(1, 2, 3)]=]  D:/DEV/CalcSampleTDD_09/build/calc_sample_test.exe [==[--gtest_filter=Cases/SumTest.Check/0]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[Cases/SumTest.Check/(1, 2, 3)]=]  PROPERTIES DEF_SOURCE_LINE [==[D:\DEV\CalcSampleTDD_09\test\calc_sample_test.cpp:14]==] WORKING_DIRECTORY D:/DEV/CalcSampleTDD_09/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[Cases/SumTest.Check/(4, 1, 5)]=]  D:/DEV/CalcSampleTDD_09/build/calc_sample_test.exe [==[--gtest_filter=Cases/SumTest.Check/1]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[Cases/SumTest.Check/(4, 1, 5)]=]  PROPERTIES DEF_SOURCE_LINE [==[D:\DEV\CalcSampleTDD_09\test\calc_sample_test.cpp:14]==] WORKING_DIRECTORY D:/DEV/CalcSampleTDD_09/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  calc_sample_test_TESTS CalcSampleTest.Plus_Basic [==[Cases/SumTest.Check/(1, 2, 3)]==] [==[Cases/SumTest.Check/(4, 1, 5)]==])

@@ -1,0 +1,1 @@
+-isystem D:/DEV/CalcSampleTDD_09/external/googletest/googlemock/include -isystem D:/DEV/CalcSampleTDD_09/external/googletest/googlemock -isystem D:/DEV/CalcSampleTDD_09/external/googletest/googletest/include -isystem D:/DEV/CalcSampleTDD_09/external/googletest/googletest

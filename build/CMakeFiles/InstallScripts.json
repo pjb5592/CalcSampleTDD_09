@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/DEV/CalcSampleTDD_09/build/cmake_install.cmake",
+		"D:/DEV/CalcSampleTDD_09/build/external/googletest/cmake_install.cmake",
+		"D:/DEV/CalcSampleTDD_09/build/external/googletest/googlemock/cmake_install.cmake",
+		"D:/DEV/CalcSampleTDD_09/build/external/googletest/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
